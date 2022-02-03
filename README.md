@@ -1,1 +1,1 @@
-This is an akka cluster that uses sharding and rounting to distribute load.
+This is an akka cluster that uses sharding and routing to distribute load.
